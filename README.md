@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm  HITESH</h1>
+<p align="center">
+  🧑‍💻 Penetration Tester | 🎯 Certified Ethical Hacker | 🔐 Cybersecurity Specialist  
+</p>
 
-<!--
-**theh1t3sh/theh1t3sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Breaking+in...+so+others+won't;Passionate+about+Security;Ethical+Hacking+is+my+Game;So+just+play" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certification
+
+### ✅ Certified Ethical Hacker (CEH) – EC-Council 
+<!-- Badge Image -->
+<p align="left">
+  <img src="Certificate/CEH_badge.png" alt="CEH Badge" width="150"/>
+</p> 
+<!-- Logo Image -->
+<p align="left">
+  <img src="Certificate/CEH-logo.jpg" alt="CEH Logo" width="250"/>
+</p>  
+<!-- Certificate Link -->
+<p align="left">
+  📜 <a href="Certificate/ECC-CEH-Certificate.pdf" target="_blank">View Certificate (PDF)</a>
+</p>
+
+---
+
+## 💻 What I Do
+
+- 🔐 Penetration Testing & Vulnerability Assessment
+- 🛡️ Secure Code Review & Web App Testing (OWASP Top 10)
+- 🧰 Exploit Development | Red Team Recon | Social Engineering
+- 💥 Real-world attack simulation to help secure critical assets
+
+---
+
+## 🧠 Tools of the Trade
+
+| Recon | Exploitation | Reporting | 
+|-------|--------------|-----------|
+| `Nmap` | `Metasploit` | `CherryTree` |
+| `Sublist3r` | `Burp Suite` | `Dradis` |
+| `Whois` | `SQLmap` | `Markdown` |
+| `Amass` | `Hydra` | `LaTeX` |
+
+---
+
+## 📂 Projects & Writeups
+
+🔍 **Hack The Box Labs**  
+🛠️ **TryHackMe Challenges**  
+💣 **Custom Exploits & Payloads**  
+🧠 **Security Cheat Sheets**  
+
+> 🔗 Explore more on [github.com/theh1t3sh](https://github.com/theh1t3sh)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/theme)
+- 🌍 [Portfolio](https://yourportfolio.com)
+- 📧 Email: mymail@example.com
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theh1t3sh&show_icons=true&theme=tokyonight" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=theh1t3sh&theme=tokyonight" width="45%" />
+</p>
