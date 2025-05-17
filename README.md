@@ -60,9 +60,9 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/theme)
-- 🌍 [Portfolio](https://yourportfolio.com)
-- 📧 Email: mymail@example.com
+- 💼 LinkedIn(https://linkedin.com/in/theme)
+- 🌍 [Portfolio]()
+- 📧 Email: hitesharma11111@gmail.com.com
 
 ---
 
