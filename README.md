@@ -16,10 +16,10 @@
 <p align="left">
   <img src="Certificate/CEH_badge.png" alt="CEH Badge" width="150"/>
 </p> 
-<!-- Logo Image -->
+<!-- Logo Image 
 <p align="left">
   <img src="Certificate/CEH-logo.jpg" alt="CEH Logo" width="250"/>
-</p>  
+</p>  -->
 <!-- Certificate Link -->
 <p align="left">
   📜 <a href="Certificate/ECC-CEH-Certificate.pdf" target="_blank">View Certificate (PDF)</a>
