@@ -14,7 +14,7 @@
 ### ✅ Certified Ethical Hacker (CEH) – EC-Council 
 <!-- Badge Image -->
 <p align="left">
-  <img src="Certificate/CEH_badge.png" alt="CEH Badge" width="150"/>
+  <img src="Certificate/CEH_badge.png" alt="CEH Badge" width="100"/>
 </p> 
 <!-- Logo Image 
 <p align="left">
